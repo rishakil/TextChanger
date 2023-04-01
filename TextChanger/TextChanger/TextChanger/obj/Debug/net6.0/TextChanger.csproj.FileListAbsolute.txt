@@ -1,0 +1,15 @@
+D:\Project\TextChanger\TextChanger\TextChanger\bin\Debug\net6.0\TextChanger.exe
+D:\Project\TextChanger\TextChanger\TextChanger\bin\Debug\net6.0\TextChanger.deps.json
+D:\Project\TextChanger\TextChanger\TextChanger\bin\Debug\net6.0\TextChanger.runtimeconfig.json
+D:\Project\TextChanger\TextChanger\TextChanger\bin\Debug\net6.0\TextChanger.dll
+D:\Project\TextChanger\TextChanger\TextChanger\bin\Debug\net6.0\TextChanger.pdb
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.csproj.AssemblyReference.cache
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.AssemblyInfoInputs.cache
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.AssemblyInfo.cs
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.csproj.CoreCompileInputs.cache
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.dll
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\refint\TextChanger.dll
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.pdb
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\TextChanger.genruntimeconfig.cache
+D:\Project\TextChanger\TextChanger\TextChanger\obj\Debug\net6.0\ref\TextChanger.dll
