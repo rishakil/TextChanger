@@ -12,8 +12,8 @@ namespace TextChanger
         {
             StreamReader reader = new StreamReader(filePath);
             string content = reader.ReadToEnd();
+            reader.Close(); // Difficulties I faced here, and solved after almost 5 hours of debugging! Feels great!
             return content;
-            reader.Close();
         }
         internal void CountWord(string _filepath)
         {

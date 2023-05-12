@@ -7,8 +7,13 @@ namespace TextChanger
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello there! What's your name? ");
+            var name = Console.ReadLine();
+            Console.WriteLine("Hello " + name + "!");
             Intro intro = new Intro();
-            intro.Options();
+            var option = intro.Options();
+            Action action = new Action();
+            action.Perform(option);
         }
     }
 }
