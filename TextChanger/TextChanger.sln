@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextChanger", "TextChanger\TextChanger.csproj", "{841300A9-16C2-45D2-B303-90B139D90F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841300A9-16C2-45D2-B303-90B139D90F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841300A9-16C2-45D2-B303-90B139D90F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841300A9-16C2-45D2-B303-90B139D90F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841300A9-16C2-45D2-B303-90B139D90F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61D5B71-EFE5-4DEC-BBF7-39F1549572BB}
+	EndGlobalSection
+EndGlobal
